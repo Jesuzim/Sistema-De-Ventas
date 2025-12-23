@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 140" width="140" height="140">
+    <!-- Círculo de fondo -->
+    <circle cx="70" cy="70" r="60" fill="none" stroke="#111111" stroke-width="3"/>
+    
+    <!-- NJ en el centro -->
+    <text x="70" y="85" font-family="'Merriweather', serif" font-size="48" font-weight="700" fill="#111111" text-anchor="middle">NJ</text>
+</svg>
